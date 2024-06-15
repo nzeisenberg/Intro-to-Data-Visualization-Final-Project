@@ -1,4 +1,4 @@
-# Intro-to-Data-Visualization-Final-Project
+# Intro to Data Visualization Final Project
 Final Project for Data Visualization Class: Interactive Tableau Dashboard
 https://public.tableau.com/app/profile/noah.eisenberg/viz/CS565FinalProject_17146728140930/Temperature
 
